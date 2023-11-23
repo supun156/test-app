@@ -30,11 +30,6 @@ Create a React application that fetches data from a mock API and displays it in 
    - Use appropriate lifecycle methods and hooks.
 
 
-### Submission
-
-- Provide a GitHub repository link containing the React application.
-- Include a README file with instructions on how to run the application locally.
-
 ### Note
 
 - You may use any state management library or approach you are comfortable with (e.g., React Context, Redux).
